@@ -1,7 +1,7 @@
 # A Multihead Continual Learning Framework for Fine-Grained Fashion Image Retrieval with Contrastive Learning and Exponential Moving Average Distillation
 
 
-![Framework Overview](assets/MCL-FIR.JPG)
+![Framework Overview](assets/MCL-FIR.jpg)
 
 
 If you find this work useful in your research, please consider citing:
