@@ -1,0 +1,28 @@
+2025-05-13 23:44:02,835 - __main__ - INFO - skirt_length mAP: 63.7173
+2025-05-13 23:44:02,835 - __main__ - INFO - sleeve_length mAP: 58.2922
+2025-05-13 23:44:02,835 - __main__ - INFO - coat_length mAP: 52.9375
+2025-05-13 23:44:02,835 - __main__ - INFO - pant_length mAP: 66.8214
+2025-05-13 23:44:02,835 - __main__ - INFO - collar_design mAP: 69.8439
+2025-05-13 23:44:02,835 - __main__ - INFO - lapel_design mAP: 67.5551
+2025-05-13 23:44:02,835 - __main__ - INFO - neckline_design mAP: 67.0139
+2025-05-13 23:44:02,835 - __main__ - INFO - neck_design mAP: 63.2626
+2025-05-13 23:44:02,835 - __main__ - INFO - texture-related mAP: 15.7095
+2025-05-13 23:44:02,835 - __main__ - INFO - fabric-related mAP: 7.7011
+2025-05-13 23:44:02,835 - __main__ - INFO - shape-related mAP: 13.4575
+2025-05-13 23:44:02,835 - __main__ - INFO - part-related mAP: 6.3718
+2025-05-13 23:44:02,835 - __main__ - INFO - style-related mAP: 4.0522
+2025-05-13 23:44:02,835 - __main__ - INFO - clothes category mAP: 9.8738
+2025-05-13 23:44:02,836 - __main__ - INFO - clothes button mAP: 28.1748
+2025-05-13 23:44:02,836 - __main__ - INFO - clothes color mAP: 15.6960
+2025-05-13 23:44:02,836 - __main__ - INFO - clothes length mAP: 39.1032
+2025-05-13 23:44:02,836 - __main__ - INFO - clothes pattern mAP: 48.1185
+2025-05-13 23:44:02,836 - __main__ - INFO - clothes shape mAP: 41.4399
+2025-05-13 23:44:02,836 - __main__ - INFO - collar shape mAP: 17.1697
+2025-05-13 23:44:02,836 - __main__ - INFO - sleeve length mAP: 72.4196
+2025-05-13 23:44:02,836 - __main__ - INFO - sleeve shape mAP: 53.6017
+2025-05-13 23:44:02,836 - __main__ - INFO - MeanAP: 63.0390
+
+2025-05-13 23:44:02,836 - __main__ - INFO - MeanAP: 9.4549
+
+2025-05-13 23:44:02,836 - __main__ - INFO - MeanAP: 35.8804
+
